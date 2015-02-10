@@ -288,7 +288,20 @@ footer {
 }
 
 /* Additional Styles */
-strong.first {
+.register {
+  text-align: center;
+}
+
+.register a {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.register a:hover {
+  color: #000;
+}
+
+.red {
   color: #fc5a50;
 }
 
