@@ -1,0 +1,1 @@
+print dot(dot(V,np.diag(lamda)),np.linalg.inv(V))
