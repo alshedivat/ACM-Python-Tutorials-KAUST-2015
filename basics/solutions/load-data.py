@@ -1,0 +1,1 @@
+auto = np.loadtxt("data")
